@@ -14,7 +14,7 @@
 
 \
 \
-\
+
 
 **The Robot Platform**
 
