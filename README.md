@@ -16,12 +16,15 @@
 **The Robot Platform**
 
 Actuators
+
 ● Zumo Shield
 
 ● Pan-Tilt Servos
 
 Sensor
+
 ● Pixy2 Camera
 
 Microprocessor
+
 ● Arduino Uno R3
