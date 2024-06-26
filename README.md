@@ -12,7 +12,8 @@
 
 ● Bonus points if the robot can automatically restart another run.
 
-
+\\
+\\
 **The Robot Platform**
 
 Actuators
@@ -20,9 +21,7 @@ Actuators
 * Pan-Tilt Servos
 
 Sensor
-
-● Pixy2 Camera
+* Pixy2 Camera
 
 Microprocessor
-
-● Arduino Uno R3
+* Arduino Uno R3
