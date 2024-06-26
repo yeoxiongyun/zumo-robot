@@ -12,6 +12,8 @@
 
 ● Bonus points if the robot can automatically restart another run.
 
+● Judged based on performance in speed, smoothness and robustness.
+
 
 ### The Robot Platform
 
