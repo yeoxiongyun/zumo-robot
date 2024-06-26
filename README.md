@@ -16,10 +16,8 @@
 **The Robot Platform**
 
 Actuators
-
-● Zumo Shield
-
-● Pan-Tilt Servos
+* Zumo Shield
+* Pan-Tilt Servos
 
 Sensor
 
