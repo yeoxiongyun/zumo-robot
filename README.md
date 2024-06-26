@@ -29,8 +29,6 @@ Microprocessor
 
 ## Observations
 
-# Observations
-
 | **P**  | **I**  | **D**  | **Observation**                         |
 |--------|--------|--------|-----------------------------------------|
 | 5000   | 10000  | 1000   | very tight turns                        |
