@@ -1,9 +1,9 @@
 # Line Tracking Robot
 
-**Task**
-
 This project aims to exhibit the application of control theory in programming a line tracking robot to follow a designated path in Arduino. It visualised the process of tuning a PID controller via varying the parameters.
 
+
+**Task**
 
 ● Program a robot to follow the line.
 
